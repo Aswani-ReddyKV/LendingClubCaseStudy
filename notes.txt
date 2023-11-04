@@ -1,0 +1,44 @@
+loan_amnt                    int64
+funded_amnt                  int64
+funded_amnt_inv            float64
+term                        object	=>Mark to category
+int_rate                    object->float64
+installment                float64
+grade                       object	=>Mark to category
+sub_grade                   object	=>Mark to category
+emp_length                  object	=>Mark to category
+home_ownership              object	=>Mark to category
+annual_inc                 float64
+verification_status         object	=>Mark to category
+issue_d                     object	=>to be relooked - if need to split into two colums
+loan_status                 object	=>Mark to category
+purpose                     object	=>Mark to category
+title                       object 	=>to be relooked - if this colum needs tobe used or not
+addr_state                  object	=>Mark to category
+dti                        float64
+delinq_2yrs                  int64	=>Mark to category
+earliest_cr_line            object	=>to be relooked - if need to split into two colums
+inq_last_6mths               int64
+open_acc                     int64	=>Mark to category
+pub_rec                      int64	=>Mark to category
+revol_bal                    int64
+revol_util                  object->float64
+total_acc                    int64	=>Mark to category
+out_prncp                  float64
+out_prncp_inv              float64
+total_pymnt                float64
+total_pymnt_inv            float64
+total_rec_prncp            float64
+total_rec_int              float64
+total_rec_late_fee         float64
+recoveries                 float64
+collection_recovery_fee    float64	(outliner cleanup)
+last_pymnt_d                object	=>to be relooked - if need to split into two colums	
+last_pymnt_amnt            float64
+last_credit_pull_d          object	=>to be relooked - if need to split into two colums	(not clear what is this role for)
+pub_rec_bankruptcies       float64	=>Mark to category
+dtype: object
+
+
+Probable Outliner removal colums::
+loan_amnt, funded_amnt, funded_amnt_inv,int_rate,installment,annual_inc,dti,inq_last_6mths,revol_bal,revol_util,out_prncp,out_prncp_inv,total_pymnt,total_pymnt_inv,total_rec_prncp,total_rec_int,total_rec_late_fee,recoveries,collection_recovery_fee,last_pymnt_amnt        
