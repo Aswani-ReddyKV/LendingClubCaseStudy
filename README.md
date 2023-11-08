@@ -44,18 +44,10 @@ By having all these details, will be helpful in identifying the risks and withou
 - Matplotlib - version 3.7.1
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+As part of UpGrad course, casestudy on "Lending Club" was taken up and applied the learnings we had from EDA module.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @Aswani-ReddyKV and @ Kuldeep Mishra  - feel free to contact us!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
