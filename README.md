@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending Club Case Study 
 
 
 ## Table of Contents
@@ -11,12 +11,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Using techniques learnt in EDA module need to come out with analysis and Identify attributes which are having influence on the loan repayment
+What the common factors being observed in case of loans where defaulters are present.
+By having all these details, will be helpful in identifying the risks and without losing potential buyer company can do business
 
 ## Conclusions
 - Conclusion 1 from the analysis
