@@ -16,7 +16,6 @@ What the common factors being observed in case of loans where defaulters are pre
 By having all these details, will be helpful in identifying the risks and without losing potential buyer company can do business.
 
 ## Conclusions
-
 - Univariate Analysis ::
   1. From the current dataset we have 14% of people have defaulted or in chargedoff.
   2. Individuals having experience more than 10+years are taking more loans when compared with other experience levels.
@@ -37,11 +36,12 @@ By having all these details, will be helpful in identifying the risks and withou
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python - version 3.11.4
+- Pandas - version 1.5.3
+- Numpy - version 1.24.3
+- Seaborn - version 0.12.2
+- Matplotlib - version 3.7.1
 
 ## Acknowledgements
 Give credit here.
