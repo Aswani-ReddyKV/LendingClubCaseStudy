@@ -48,6 +48,6 @@ As part of UpGrad course, casestudy on "Lending Club" was taken up and applied t
 
 
 ## Contact
-Created by @Aswani-ReddyKV and @ Kuldeep Mishra  - feel free to contact us!
+Created by @Aswani-ReddyKV and @kuldeep-mishra  - feel free to contact us!
 
 
